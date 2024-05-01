@@ -1,4 +1,4 @@
-# Hello World
+# Jose Gomez's Portfolio
 
 This is my home page! My name is Jose Gomez and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Electrical Engineering.
 
@@ -6,7 +6,7 @@ This is my home page! My name is Jose Gomez and I am a student at [Cal State Ful
 
 My GitHub page is http://github.com/GJose7.
 
-### CPSC 120
+### Favorite CPSC 120 Labs
 
 * Lab 4
     
